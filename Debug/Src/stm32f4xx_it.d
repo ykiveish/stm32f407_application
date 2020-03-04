@@ -26,7 +26,16 @@ Src/stm32f4xx_it.o: ../Src/stm32f4xx_it.c \
  C:/workspace/Projects/stm32f407_application/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
  C:/workspace/Projects/stm32f407_application/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
  C:/workspace/Projects/stm32f407_application/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
- C:/workspace/Projects/stm32f407_application/Inc/stm32f4xx_it.h
+ C:/workspace/Projects/stm32f407_application/Inc/stm32f4xx_it.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ C:/workspace/Projects/stm32f407_application/Inc/FreeRTOSConfig.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
 
 C:/workspace/Projects/stm32f407_application/Inc/main.h:
 
@@ -83,3 +92,21 @@ C:/workspace/Projects/stm32f407_application/Drivers/STM32F4xx_HAL_Driver/Inc/stm
 C:/workspace/Projects/stm32f407_application/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
 
 C:/workspace/Projects/stm32f407_application/Inc/stm32f4xx_it.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
+
+C:/workspace/Projects/stm32f407_application/Inc/FreeRTOSConfig.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+C:/workspace/Projects/stm32f407_application/Middlewares/Third_Party/FreeRTOS/Source/include/list.h:
